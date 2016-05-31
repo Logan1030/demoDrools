@@ -1,0 +1,118 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>birthdayPoint [1]</activationId>
+      <rule>birthdayPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>buyMoneyPoint [1]</activationId>
+      <rule>buyMoneyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>buyNumsPoint [1]</activationId>
+      <rule>buyNumsPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>allFitPoint [1]</activationId>
+      <rule>allFitPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>subBackMondyPoint [1]</activationId>
+      <rule>subBackMondyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>com.cn.point.PointDomain@68702e03</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>birthdayPoint [1]</activationId>
+      <rule>birthdayPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>birthdayPoint [1]</activationId>
+      <rule>birthdayPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>buyMoneyPoint [1]</activationId>
+      <rule>buyMoneyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>buyMoneyPoint [1]</activationId>
+      <rule>buyMoneyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>buyNumsPoint [1]</activationId>
+      <rule>buyNumsPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>buyNumsPoint [1]</activationId>
+      <rule>buyNumsPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>allFitPoint [1]</activationId>
+      <rule>allFitPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>allFitPoint [1]</activationId>
+      <rule>allFitPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>subBackMondyPoint [1]</activationId>
+      <rule>subBackMondyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>subBackMondyPoint [1]</activationId>
+      <rule>subBackMondyPoint</rule>
+      <declarations>$pointDomain=com.cn.point.PointDomain@68702e03</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+  </events>
+  <engine>RETEOO</engine>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
